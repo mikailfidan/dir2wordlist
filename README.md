@@ -3,7 +3,7 @@ dir2wordlist helps that generate a wordlist using recursive find on a directory.
 
 
 
-![alt text](https://github.com/mikailfidan/dir2wordlist/blob/master/screenshots/dir2wordlist.gif)
+![alt text](https://github.com/mikailfidan/dir2wordlist/blob/master/dir2wordlist.gif)
 
 <h2>Usage:</h2>
 
