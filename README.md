@@ -13,7 +13,7 @@ dir2wordlist helps that generate a wordlist using recursive find on a directory.
   2. Enter the following to run the script:
      ./dir2wordlist.sh [OPTIONS]...
 
-<code>./dir2wordlish -h</code>
+<code>./dir2wordlist.sh -h</code>
 
 
 
